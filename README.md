@@ -21,8 +21,7 @@ The dashboard was built using the following tools and technologies:
 -  **SQL** – Data extraction and transformation from company databases  
 -  **Excel** – Pre-processing, cleaning, and ad-hoc analysis  
 -  **SAP** – ERP data extracts for sales, profit, and stock  
--  **OCR** – Automated extraction of structured data from scanned invoices/reports  
--  **Web Scraping** – External industry and market data integration  
+
 
 ## 📂 Data Source  
 - **Internal ERP/SAP extracts** → Sales, profit, stock, and order data  
